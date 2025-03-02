@@ -24,7 +24,7 @@ Get started quickly by deploying to Heroku with just one click:
 
   - Activate Virtual Env: `source .venv/bin/activate`
 
-  - Clone the Repository: `git clone https://github.com/maythushar-music/maythusharmusic && cd maythusharmusic`
+  - Clone the Repository: `git clone https://github.com/sasuke-music-v1/maythusharmusic && cd maythusharmusic`
 
   - Install Python Requirements: `pip install -r requirements.txt`
 
@@ -47,7 +47,7 @@ To exit the **tmux session** without stopping the bot, press `Ctrl+b`, then `d`.
 
 ## ⚙️ Configuration
 
-Need help setting up? Check out our detailed configuration guide: [**Configuration Instructions**](https://github.com/maythushar-music/maythusharmusic/blob/master/config/README.md).
+Need help setting up? Check out our detailed configuration guide: [**Configuration Instructions**](https://github.com/sasuke-music-v1/maythusharmusic/blob/master/config/README.md).
 
 
 ## 🤝 Need Help?
